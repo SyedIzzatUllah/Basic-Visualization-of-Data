@@ -2,5 +2,5 @@
 Basic Visualization Tools: 
 
 Area Plots.
-Histograms.
+Histograms.       
 Bar Charts
