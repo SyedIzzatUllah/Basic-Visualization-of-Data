@@ -1,4 +1,4 @@
-# Basic-Visualization-of-Data    
+# Basic-Visualization-of-Data     
 Basic Visualization Tools: 
 
 - Area Plots. 
