@@ -1,7 +1,7 @@
 # Basic-Visualization-of-Data     
 Basic Visualization Tools: 
 
-- Area Plots. 
+- Area Plots.
 - Histograms.            
 - Bar Charts
  
